@@ -1,5 +1,12 @@
-# Getting Started with Create React App
 
+# Getting API from the below website
+`edamam.com `
+API link : https://api.edamam.com/search?q=${search}&app_id=${YOUR_APP_ID}&app_key=${YOUR_APP_KEY}&from=0&to=30&calories=591-722&health=alcohol-free
+
+You can replace the below details in api link by signingup into the above site.
+Application ID, Application Keys
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
